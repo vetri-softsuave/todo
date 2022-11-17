@@ -1,0 +1,8 @@
+.newtodo {
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.todo-invalid{
+    color: #d32f2f;
+}

@@ -1,0 +1,9 @@
+.list-item{
+    background-color: rgb(224, 221, 221);
+    margin-bottom: 10px;
+}
+
+.remove-btn:hover{
+   color: #fff;
+   
+}
